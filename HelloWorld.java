@@ -12,7 +12,7 @@ public class HelloWorld {
 
         try{
         	
-        	runtime.exec("C:\Program Files\Internet Explorer\iexplore.exe http://www.naver.com");
+        	runtime.exec("C:/Program Files/Internet Explorer/iexplore.exe http://www.naver.com");
 
         } catch(IOException ex) {
 
